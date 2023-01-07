@@ -1,0 +1,1 @@
+var myfunc = f => {this.x = "x"}
